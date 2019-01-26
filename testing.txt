@@ -1,1 +1,7 @@
-loops I repeat\nloops\nloops\nloops\nI repeat\nuntilI I\nbreak\n
+loops I repeat
+loops
+loops
+loops
+I repeat
+untilI I
+break
